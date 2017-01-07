@@ -8,7 +8,7 @@ Below are my projects:
 
 ```markdown
 
-1. [_**Door-sensor-3.14**_](https://satrajit-c.github.io/door-sensor/)
+1. -**[Door-sensor-3.14](https://satrajit-c.github.io/door-sensor/)**_
 
 ```
 ### Please contace me at:
