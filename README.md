@@ -8,9 +8,10 @@ Below are my projects:
 
 ```markdown
 
-1. _**[Door-sensor-3.14](https://satrajit-c.github.io/door-sensor/).**_
+1. [Door-sensor-3.14](https://satrajit-c.github.io/door-sensor/).
 
 ```
+
 ### Please contace me at:
 
 satrajit2014@gmail.com
