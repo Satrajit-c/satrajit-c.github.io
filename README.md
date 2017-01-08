@@ -8,7 +8,7 @@ Below are my projects:
 
 ```markdown
 
-1. [Door-sensor-3.14](https://satrajit-c.github.io/door-sensor/).
+1. [Door-sensor-3.14](https://satrajit-c.github.io/door_sensor/).
 
 ```
 
